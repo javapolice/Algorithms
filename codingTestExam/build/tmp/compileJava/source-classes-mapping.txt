@@ -1,0 +1,25 @@
+lamda.java
+ Compare
+ lamda
+Algorithm.java
+ Algorithm
+PrintEx.java
+ PrintEx
+PrintCat.java
+ PrintCat
+PrintDog.java
+ PrintDog
+SumEx.java
+ SumEx
+MinusEx.java
+ MinusEx
+MultiplyEx.java
+ MultiplyEx
+DivideEx.java
+ DivideEx
+CalEx.java
+ CalEx
+DivideCal.java
+ DivideCal
+MultipleCal.java
+ MultipleCal
