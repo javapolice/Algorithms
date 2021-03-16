@@ -1,10 +1,10 @@
-interface Compare{
+interface CompareTwo{
     public int compareTo(int a, int b);
 }
 
 public class lamda {
 
-    public static void exec(Compare com){
+    public static void exec(CompareTwo com){
         int k = 10;
         int m = 20;
         int value = com.compareTo(k, m);

@@ -1,6 +1,5 @@
-lamda.java
- Compare
- lamda
+MultipleCal.java
+ MultipleCal
 Algorithm.java
  Algorithm
 PrintEx.java
@@ -21,5 +20,16 @@ CalEx.java
  CalEx
 DivideCal.java
  DivideCal
-MultipleCal.java
- MultipleCal
+lamda.java
+ CompareTwo
+ lamda
+Compare.java
+ Compare
+TestClass.java
+ TestClass
+LeapYear.java
+ LeapYear
+Quadrant.java
+ Quadrant
+AlamTime.java
+ AlamTime
