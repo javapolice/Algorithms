@@ -7,3 +7,5 @@ GreedyMoney.java
  GreedyMoney
 CoinGreedyAL.java
  CoinGreedyAL
+ATMGreedyAL.java
+ ATMGreedyAL
