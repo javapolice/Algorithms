@@ -7,6 +7,7 @@ public class GreedyMoney {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
+        br.close();
         int money = Integer.parseInt(st.nextToken());
         int coin[] = {500, 100, 50, 10};
         int count = 0;
