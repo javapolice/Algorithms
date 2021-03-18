@@ -9,3 +9,7 @@ CoinGreedyAL.java
  CoinGreedyAL
 ATMGreedyAL.java
  ATMGreedyAL
+MaxNumGreedyAL.java
+ MaxNumGreedyAL
+GasStationAL.java
+ GasStationAL
