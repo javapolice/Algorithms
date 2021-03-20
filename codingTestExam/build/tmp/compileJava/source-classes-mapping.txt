@@ -33,3 +33,9 @@ Quadrant.java
  Quadrant
 AlamTime.java
  AlamTime
+bakForProblem/MultipleEx.java
+ bakForProblem.MultipleEx
+bakForProblem/SumEx.java
+ bakForProblem.SumEx
+bakForProblem/SumNEx.java
+ bakForProblem.SumNEx
