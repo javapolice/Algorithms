@@ -3,13 +3,15 @@ greedyAL.java
  greedyAL$Time
 FileReaderEx.java
  FileReaderEx
+ATMGreedyAL.java
+ ATMGreedyAL
 GreedyMoney.java
  GreedyMoney
 CoinGreedyAL.java
  CoinGreedyAL
-ATMGreedyAL.java
- ATMGreedyAL
-MaxNumGreedyAL.java
- MaxNumGreedyAL
 GasStationAL.java
  GasStationAL
+MaxNumGreedyAL.java
+ MaxNumGreedyAL
+ParenthesesAL.java
+ ParenthesesAL
