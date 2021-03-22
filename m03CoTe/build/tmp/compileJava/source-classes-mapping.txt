@@ -1,8 +1,10 @@
+FileReaderEx.java
+ FileReaderEx
 greedyAL.java
  greedyAL
  greedyAL$Time
-FileReaderEx.java
- FileReaderEx
+ParenthesesAL.java
+ ParenthesesAL
 ATMGreedyAL.java
  ATMGreedyAL
 GreedyMoney.java
@@ -13,5 +15,5 @@ GasStationAL.java
  GasStationAL
 MaxNumGreedyAL.java
  MaxNumGreedyAL
-ParenthesesAL.java
- ParenthesesAL
+MaxAL.java
+ MaxAL
