@@ -13,7 +13,5 @@ CoinGreedyAL.java
  CoinGreedyAL
 GasStationAL.java
  GasStationAL
-MaxNumGreedyAL.java
- MaxNumGreedyAL
 MaxAL.java
  MaxAL

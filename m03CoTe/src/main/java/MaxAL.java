@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 public class MaxAL {
     public static void main(String[] args) throws IOException {
         //초기작업
-        FileReader fr = new FileReader("D:\\javaAL\\javaExam\\m03CoTe\\src\\main\\resources\\maxAL.txt");
+        FileReader fr = new FileReader("C:\\intelliJ\\m03CoTe\\src\\main\\resources\\maxAL.txt");
         BufferedReader br = new BufferedReader(fr);
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
@@ -21,9 +21,9 @@ public class MaxAL {
         for (int i = 0; i < nums.length; i++) {
             nums[i] = Integer.parseInt(st.nextToken());
         }
-
-        //계산
         Arrays.sort(nums, Collections.reverseOrder());
+
+        /*//계산 1
         int count = 1;
         int result = 0;
         for (int i = 0; i < minCnt; i++) {
@@ -55,7 +55,14 @@ public class MaxAL {
                         }
                     }
                 }
-            }
+            }*/
+        //계산 2
+        int result = 0;
+        int maxNum = nums[0];
+        int secondNum = nums[1];
+        result = ((maxNum*minCnt)+secondNum) * (sumCnt/(minCnt+1));
+        result += maxNum*(sumCnt%(minCnt+1));
+
         //결과출력
         bw.write(String.valueOf(result));
         br.close();
