@@ -39,3 +39,19 @@ bakForProblem/SumEx.java
  bakForProblem.SumEx
 bakForProblem/SumNEx.java
  bakForProblem.SumNEx
+bakForProblem/SumABQuick.java
+ bakForProblem.SumABQuick
+bakForProblem/Output.java
+ bakForProblem.Output
+bakForProblem/NOutput.java
+ bakForProblem.NOutput
+bakForProblem/SumAB1.java
+ bakForProblem.SumAB1
+bakForProblem/PrintStar1.java
+ bakForProblem.PrintStar1
+bakForProblem/SumAB2.java
+ bakForProblem.SumAB2
+bakForProblem/PrintStar2.java
+ bakForProblem.PrintStar2
+bakForProblem/MinNum.java
+ bakForProblem.MinNum
