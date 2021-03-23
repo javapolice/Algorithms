@@ -5,9 +5,9 @@ import java.util.StringTokenizer;
 
 public class SumAB1 {
     public static void main(String[] args) throws IOException {
-        /*FileReader fr = new FileReader("C:\\intelliJ\\codingTestExam\\src\\main\\resources\\sumAB1.txt");
-        BufferedReader br = new BufferedReader(fr);*/
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        FileReader fr = new FileReader("./src/main/resources/sumAB1.txt");
+        BufferedReader br = new BufferedReader(fr);
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int cnt = Integer.parseInt(br.readLine());
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         for (int i = 0; i < cnt; i++) {
