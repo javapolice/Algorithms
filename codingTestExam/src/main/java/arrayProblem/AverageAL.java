@@ -9,25 +9,25 @@ public class AverageAL {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int cnt = Integer.parseInt(br.readLine());
-        for(int i = 0; i < cnt; i++){
+        for (int i = 0; i < cnt; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine(), " ");
             int people = Integer.parseInt(st.nextToken());
-            Double[] point = new Double[people];
+            int[] point = new int[people];
             double sum = 0;
             double average;
-            for(int j = 0; j < point.length; j++){
-                point[j] = Double.parseDouble(st.nextToken());
+            for (int j = 0; j < point.length; j++) {
+                point[j] = Integer.parseInt(st.nextToken());
                 sum += point[j];
             }
-            average = sum/people;
+            average = (sum / people);
             double rate = 0;
-            for (Double aDouble : point) {
-                if (aDouble >= average) {
+            for (int t : point) {
+                if (t > average) {
                     rate++;
                 }
             }
-            double result = ((rate/people) * 100);
-            System.out.println(Math.round(result*1000)/1000.0 + "%");
+            System.out.printf("%.3f%%\n", (rate / people) * 100);
         }
+        br.close();
     }
 }
