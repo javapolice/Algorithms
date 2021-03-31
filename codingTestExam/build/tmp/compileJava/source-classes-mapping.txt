@@ -1,57 +1,97 @@
-MultipleCal.java
- MultipleCal
-Algorithm.java
- Algorithm
-PrintEx.java
- PrintEx
-PrintCat.java
- PrintCat
-PrintDog.java
- PrintDog
-SumEx.java
- SumEx
+arrayProblem/MinMax01NotArray.java
+ arrayProblem.MinMax01NotArray
+arrayProblem/MinMax02NotArray.java
+ arrayProblem.MinMax02NotArray
+bakFunctionProblem/SelfNumber.java
+ bakFunctionProblem.SelfNumber
+arrayProblem/Average.java
+ arrayProblem.Average
+bakForProblem/SumAB2.java
+ bakForProblem.SumAB2
+arrayProblem/RestNum.java
+ arrayProblem.RestNum
+bakForProblem/PrintStar2.java
+ bakForProblem.PrintStar2
 MinusEx.java
  MinusEx
-MultiplyEx.java
- MultiplyEx
-DivideEx.java
- DivideEx
-CalEx.java
- CalEx
+PrintEx.java
+ PrintEx
+arrayProblem/MinMax01.java
+ arrayProblem.MinMax01
+bakForProblem/MultipleEx.java
+ bakForProblem.MultipleEx
+bakForProblem/NOutput.java
+ bakForProblem.NOutput
 DivideCal.java
  DivideCal
+PrintDog.java
+ PrintDog
+bakForProblem/SumABQuick.java
+ bakForProblem.SumABQuick
+bakWhileProblem/SumEx2.java
+ bakWhileProblem.SumEx2
+bakFunctionProblem/Arithmetical.java
+ bakFunctionProblem.Arithmetical
+SumEx.java
+ SumEx
+bakForProblem/PrintStar1.java
+ bakForProblem.PrintStar1
+bakFunctionProblem/SumFuc.java
+ bakFunctionProblem.SumFuc
+Quadrant.java
+ Quadrant
+bakForProblem/SumAB1.java
+ bakForProblem.SumAB1
+bakWhileProblem/SumEx.java
+ bakWhileProblem.SumEx
+TestClass.java
+ TestClass
+CalEx.java
+ CalEx
+bakForProblem/SumNEx.java
+ bakForProblem.SumNEx
+bakForProblem/MinNum.java
+ bakForProblem.MinNum
+bakWhileProblem/CycleEx.java
+ bakWhileProblem.CycleEx
+AlamTime.java
+ AlamTime
+arrayProblem/MinMax02.java
+ arrayProblem.MinMax02
+Compare.java
+ Compare
 lamda.java
  CompareTwo
  lamda
-Compare.java
- Compare
-TestClass.java
- TestClass
+PrintCat.java
+ PrintCat
+Algorithm.java
+ Algorithm
+arrayProblem/AverageAL.java
+ arrayProblem.AverageAL
 LeapYear.java
  LeapYear
-Quadrant.java
- Quadrant
-AlamTime.java
- AlamTime
-bakForProblem/MultipleEx.java
- bakForProblem.MultipleEx
+MultiplyEx.java
+ MultiplyEx
+arrayProblem/OXEx.java
+ arrayProblem.OXEx
+DivideEx.java
+ DivideEx
 bakForProblem/SumEx.java
  bakForProblem.SumEx
-bakForProblem/SumNEx.java
- bakForProblem.SumNEx
-bakForProblem/SumABQuick.java
- bakForProblem.SumABQuick
+arrayProblem/NumCount.java
+ arrayProblem.NumCount
+MultipleCal.java
+ MultipleCal
 bakForProblem/Output.java
  bakForProblem.Output
-bakForProblem/NOutput.java
- bakForProblem.NOutput
-bakForProblem/SumAB1.java
- bakForProblem.SumAB1
-bakForProblem/PrintStar1.java
- bakForProblem.PrintStar1
-bakForProblem/SumAB2.java
- bakForProblem.SumAB2
-bakForProblem/PrintStar2.java
- bakForProblem.PrintStar2
-bakForProblem/MinNum.java
- bakForProblem.MinNum
+bakStringProblem/AskiCode.java
+ bakStringProblem.AskiCode
+bakStringProblem/Sum01.java
+ bakStringProblem.Sum01
+bakStringProblem/Location.java
+ bakStringProblem.Location
+bakStringProblem/StringAgain.java
+ bakStringProblem.StringAgain
+bakStringProblem/WordStudy.java
+ bakStringProblem.WordStudy

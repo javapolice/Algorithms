@@ -15,3 +15,7 @@ GasStationAL.java
  GasStationAL
 MaxAL.java
  MaxAL
+bookGreedy/NumCardGame.java
+ bookGreedy.NumCardGame
+bookGreedy/Want1.java
+ bookGreedy.Want1
