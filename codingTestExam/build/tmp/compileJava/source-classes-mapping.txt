@@ -95,3 +95,11 @@ bakStringProblem/StringAgain.java
  bakStringProblem.StringAgain
 bakStringProblem/WordStudy.java
  bakStringProblem.WordStudy
+bakStringProblem/WordCount.java
+ bakStringProblem.WordCount
+bakStringProblem/MaxNum.java
+ bakStringProblem.MaxNum
+bakStringProblem/Dial.java
+ bakStringProblem.Dial
+bakStringProblem/Croatia.java
+ bakStringProblem.Croatia
