@@ -11,6 +11,7 @@ public class GroupWord {
         for(int i = 0; i < cnt; i++){
             String[] s = br.readLine().split("");
             for(int j = 0; j < s.length-1; j++){
+
             }
         }
     }
