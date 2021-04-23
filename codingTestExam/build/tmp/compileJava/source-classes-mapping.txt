@@ -103,3 +103,7 @@ bakStringProblem/Dial.java
  bakStringProblem.Dial
 bakStringProblem/Croatia.java
  bakStringProblem.Croatia
+bakStringProblem/GroupWord.java
+ bakStringProblem.GroupWord
+bakMath1Problem/MathBenefit.java
+ bakMath1Problem.MathBenefit
