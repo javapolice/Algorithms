@@ -2,7 +2,7 @@ package section1;
 
 import java.util.Scanner;
 
-public class FelindromT {
+public class PelindromeT {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         String str = scn.nextLine();
