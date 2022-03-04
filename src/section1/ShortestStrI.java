@@ -49,12 +49,14 @@ public class ShortestStrI {
                 if((j-lt)>=0){
                     while(cArray[j-lt] != t.charAt(0)){
                         lt++;
+                        if((j-lt)<0) break;
                     }
                 }
-                if((j+rt) <= cArray.length){
+                if((j+rt) <= cArray.length-1){
                     while(cArray[j+rt] != t.charAt(0)){
                         rt++;
                     }
+                    if((j+rt) >= cArray.length) break;
                 }
                 if(lt < rt){
                     result += String.valueOf(lt) + " ";
