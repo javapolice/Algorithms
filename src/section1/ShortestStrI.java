@@ -68,3 +68,6 @@ public class ShortestStrI {
         return result;
     }
 }
+/*
+ 틀림.
+ */
