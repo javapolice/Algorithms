@@ -59,5 +59,8 @@ public class StringCompressionI {
                 cnt = 1;
             }
         }
+        result += aChar;
+        result += cnt;
+        return result.replaceAll("1","");
     }
 }
