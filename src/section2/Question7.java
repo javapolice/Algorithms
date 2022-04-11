@@ -53,7 +53,7 @@ Image1.jpg
         for(int i = 0; i < cnt; i++){
             exam[i] = scanner.nextInt();
         }
-        result = cal(exam);
+        result = cal2(exam);
         System.out.println(result);
     }
 
@@ -76,4 +76,19 @@ Image1.jpg
         }
         return result;
     }
+    private static int cal2(int[] exam) {
+        int point = 0;
+        int result = 0;
+        for(int i = 0; i < exam.length; i++){
+            if(exam[i] == 1){
+                point++;
+                result += point;
+            }else{
+                point = 0;
+            }
+        }
+        return result;
+    }
+
+
 }
