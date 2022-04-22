@@ -33,19 +33,19 @@ N*N의 격자판이 주어지면 각 행의 합, 각 열의 합, 두 대각선�
 19 27 29 37 27
 19 13 30 13 19
 예시 출력 1
-00 11 22 33 44
-04 13 22 31 40
 155
      */
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int cnt = scn.nextInt();
+        String space = scn.nextLine();
         int[][] ints = new int[cnt][cnt];
         for(int i = 0; i < cnt; i++){
-            for(int j = 0; i < cnt; j++){
+            for(int j = 0; j < cnt; j++){
                 ints[i][j] = scn.nextInt();
             }
+            space = scn.nextLine();
         }
 
         int result = solution(cnt, ints);
@@ -82,6 +82,4 @@ N*N의 격자판이 주어지면 각 행의 합, 각 열의 합, 두 대각선�
 
         return result;
     }
-
-
 }
