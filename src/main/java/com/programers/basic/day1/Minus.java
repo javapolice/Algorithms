@@ -1,8 +1,8 @@
-package com.programers.basic.Day1;
+package com.programers.basic.day1;
 
 import java.util.Scanner;
 
-public class Sum {
+public class Minus {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num1 = scanner.nextInt();
@@ -12,7 +12,7 @@ public class Sum {
     }
 
     public static int solution(int num1, int num2) {
-        int answer = num1 + num2;
+        int answer = num1 - num2;
         return answer;
     }
 
