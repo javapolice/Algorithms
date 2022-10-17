@@ -10,15 +10,14 @@ public class OECount {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] s = br.readLine().replaceAll("\\[| |\\]", "").split(",");
         int[] num_list = Arrays.stream(s).mapToInt(Integer::parseInt).toArray();
-        int[] result = solution(num_list);
+        long[] result = solution(num_list);
         System.out.println(Arrays.toString(result));
     }
 
-    private static int[] solution(int[] num_list) {
-        int[] answer = new int[2];
+    private static long[] solution(int[] num_list) {
+        long[] answer = new long[2];
         for (int i : num_list) {
-            if(i == 0) {
-            }else if(i % 2 == 0){
+            if(i % 2 == 0){
                 answer[0]++;
             }else{
                 answer[1]++;
