@@ -1,5 +1,6 @@
 package com.programers.basic.day9;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class NumOfCase {
@@ -12,18 +13,23 @@ public class NumOfCase {
     }
 
     private static int solution(int balls, int share) {
-        int n = calPacto(balls);
-        int m = calPacto(share);
-        int nMinusM = calPacto(balls-share);
-        int answer = n / (nMinusM * m);
-        return answer;
+        BigInteger n = calPacto(BigInteger.valueOf(balls));
+        BigInteger m = calPacto(BigInteger.valueOf(share));
+        BigInteger x = calPacto(BigInteger.valueOf(balls-share));
+        return Integer.parseInt(String.valueOf(n.divide(x.multiply(m))));
     }
 
-    private static int calPacto(int range) {
-        int result = 1;
-        for (int i = 1; i <= range; i++) {
-            result *=i;
+    /*private static BigInteger calPacto(BigInteger range) {
+        if(range.equals(BigInteger.ONE)) return range;
+        return range.multiply(calPacto(range.subtract(BigInteger.ONE)));
+    }*/
+
+    private static BigInteger calPacto(BigInteger range) {
+        BigInteger a = BigInteger.ONE;
+        int r = Integer.parseInt(String.valueOf(range));
+        for (int i = r; i >= 2; i--) {
+            a = a.multiply(BigInteger.valueOf(i));
         }
-        return result;
+        return a;
     }
 }
