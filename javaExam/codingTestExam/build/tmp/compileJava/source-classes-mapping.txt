@@ -1,0 +1,109 @@
+arrayProblem/MinMax01NotArray.java
+ arrayProblem.MinMax01NotArray
+arrayProblem/MinMax02NotArray.java
+ arrayProblem.MinMax02NotArray
+bakFunctionProblem/SelfNumber.java
+ bakFunctionProblem.SelfNumber
+arrayProblem/Average.java
+ arrayProblem.Average
+bakForProblem/SumAB2.java
+ bakForProblem.SumAB2
+arrayProblem/RestNum.java
+ arrayProblem.RestNum
+bakForProblem/PrintStar2.java
+ bakForProblem.PrintStar2
+MinusEx.java
+ MinusEx
+PrintEx.java
+ PrintEx
+arrayProblem/MinMax01.java
+ arrayProblem.MinMax01
+bakForProblem/MultipleEx.java
+ bakForProblem.MultipleEx
+bakForProblem/NOutput.java
+ bakForProblem.NOutput
+DivideCal.java
+ DivideCal
+PrintDog.java
+ PrintDog
+bakForProblem/SumABQuick.java
+ bakForProblem.SumABQuick
+bakWhileProblem/SumEx2.java
+ bakWhileProblem.SumEx2
+bakFunctionProblem/Arithmetical.java
+ bakFunctionProblem.Arithmetical
+SumEx.java
+ SumEx
+bakForProblem/PrintStar1.java
+ bakForProblem.PrintStar1
+bakFunctionProblem/SumFuc.java
+ bakFunctionProblem.SumFuc
+Quadrant.java
+ Quadrant
+bakForProblem/SumAB1.java
+ bakForProblem.SumAB1
+bakWhileProblem/SumEx.java
+ bakWhileProblem.SumEx
+TestClass.java
+ TestClass
+CalEx.java
+ CalEx
+bakForProblem/SumNEx.java
+ bakForProblem.SumNEx
+bakForProblem/MinNum.java
+ bakForProblem.MinNum
+bakWhileProblem/CycleEx.java
+ bakWhileProblem.CycleEx
+AlamTime.java
+ AlamTime
+arrayProblem/MinMax02.java
+ arrayProblem.MinMax02
+Compare.java
+ Compare
+lamda.java
+ CompareTwo
+ lamda
+PrintCat.java
+ PrintCat
+Algorithm.java
+ Algorithm
+arrayProblem/AverageAL.java
+ arrayProblem.AverageAL
+LeapYear.java
+ LeapYear
+MultiplyEx.java
+ MultiplyEx
+arrayProblem/OXEx.java
+ arrayProblem.OXEx
+DivideEx.java
+ DivideEx
+bakForProblem/SumEx.java
+ bakForProblem.SumEx
+arrayProblem/NumCount.java
+ arrayProblem.NumCount
+MultipleCal.java
+ MultipleCal
+bakForProblem/Output.java
+ bakForProblem.Output
+bakStringProblem/AskiCode.java
+ bakStringProblem.AskiCode
+bakStringProblem/Sum01.java
+ bakStringProblem.Sum01
+bakStringProblem/Location.java
+ bakStringProblem.Location
+bakStringProblem/StringAgain.java
+ bakStringProblem.StringAgain
+bakStringProblem/WordStudy.java
+ bakStringProblem.WordStudy
+bakStringProblem/WordCount.java
+ bakStringProblem.WordCount
+bakStringProblem/MaxNum.java
+ bakStringProblem.MaxNum
+bakStringProblem/Dial.java
+ bakStringProblem.Dial
+bakStringProblem/Croatia.java
+ bakStringProblem.Croatia
+bakStringProblem/GroupWord.java
+ bakStringProblem.GroupWord
+bakMath1Problem/MathBenefit.java
+ bakMath1Problem.MathBenefit
